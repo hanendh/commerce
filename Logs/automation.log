@@ -1,0 +1,809 @@
+04/24/2023 07:03:57 PM: INFO: ====== WebDriver manager ======
+04/24/2023 07:03:58 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/24/2023 07:03:58 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/24/2023 07:03:59 PM: INFO: ***********Test_TC01_Login***********
+04/24/2023 07:03:59 PM: INFO: *********** Verifying the homepage case ***********
+04/24/2023 07:04:01 PM: INFO: ***********  the homepage case is passed ***********
+04/24/2023 07:04:01 PM: INFO: ====== WebDriver manager ======
+04/24/2023 07:04:01 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/24/2023 07:04:02 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/24/2023 07:04:03 PM: INFO: *********** Verifying the login case ***********
+04/24/2023 07:04:08 PM: INFO: ***********  the login case is passed ***********
+04/25/2023 12:45:47 PM: INFO: xdist worker is: gw0
+04/25/2023 12:45:47 PM: INFO: ====== WebDriver manager ======
+04/25/2023 12:45:47 PM: INFO: ====== WebDriver manager ======
+04/25/2023 12:45:48 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/25/2023 12:45:48 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/25/2023 12:45:48 PM: INFO: There is no [win32] chromedriver for browser 112.0.5615 in cache
+04/25/2023 12:45:48 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/25/2023 12:45:48 PM: INFO: There is no [win32] chromedriver for browser 112.0.5615 in cache
+04/25/2023 12:45:48 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/25/2023 12:45:53 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\gw1\drivers\chromedriver\win32\112.0.5615]
+04/25/2023 12:45:53 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615]
+04/25/2023 12:45:55 PM: INFO: *********** Verifying the login case ***********
+04/25/2023 12:45:55 PM: INFO: ***********Test_TC01_Login***********
+04/25/2023 12:45:55 PM: INFO: *********** Verifying the homepage case ***********
+04/25/2023 12:45:57 PM: INFO: ***********  the homepage case is passed ***********
+04/25/2023 12:46:00 PM: INFO: ***********  the login case is passed ***********
+04/25/2023 02:43:02 PM: INFO: xdist worker is: gw0
+04/25/2023 02:43:02 PM: INFO: xdist worker is: gw1
+04/25/2023 02:43:02 PM: INFO: ====== WebDriver manager ======
+04/25/2023 02:43:02 PM: INFO: ====== WebDriver manager ======
+04/25/2023 02:43:02 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/25/2023 02:43:02 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/25/2023 02:43:03 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/25/2023 02:43:03 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw1\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/25/2023 02:43:04 PM: INFO: ***********Test_TC01_Login***********
+04/25/2023 02:43:04 PM: INFO: *********** Verifying the homepage case ***********
+04/25/2023 02:43:04 PM: INFO: *********** Verifying the login case ***********
+04/25/2023 02:43:06 PM: INFO: ***********  the homepage case is passed ***********
+04/25/2023 02:43:10 PM: INFO: ***********  the login case is passed ***********
+04/25/2023 02:47:06 PM: INFO: xdist worker is: gw1
+04/25/2023 02:47:06 PM: INFO: xdist worker is: gw0
+04/25/2023 02:47:06 PM: INFO: ====== WebDriver manager ======
+04/25/2023 02:47:06 PM: INFO: ====== WebDriver manager ======
+04/25/2023 02:47:06 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/25/2023 02:47:07 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/25/2023 02:47:07 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw1\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/25/2023 02:47:07 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/25/2023 02:47:09 PM: INFO: *********** Verifying the login case ***********
+04/25/2023 02:47:09 PM: INFO: ***********Test_TC01_Login***********
+04/25/2023 02:47:09 PM: INFO: *********** Verifying the homepage case ***********
+04/25/2023 02:47:10 PM: INFO: ***********  the homepage case is passed ***********
+04/25/2023 02:47:13 PM: INFO: ***********  the login case is passed ***********
+04/26/2023 10:51:35 PM: INFO: ====== WebDriver manager ======
+04/26/2023 10:51:36 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 10:51:37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/26/2023 10:51:46 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615]
+04/26/2023 10:51:47 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 10:51:47 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 10:51:59 PM: INFO: ******** test-case is passed
+04/26/2023 10:51:59 PM: INFO: ************ test case login is passed ************
+04/26/2023 10:54:26 PM: INFO: ====== WebDriver manager ======
+04/26/2023 10:54:26 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 10:54:27 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 10:54:28 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 10:54:28 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 10:54:41 PM: INFO: ******** test-case is passed
+04/26/2023 10:54:41 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:09:16 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:09:17 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:09:18 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:09:20 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:09:20 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:09:33 PM: INFO: *** test-case is passed ***
+04/26/2023 11:09:33 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:09:33 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:09:33 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:17:40 PM: INFO: xdist worker is: gw1
+04/26/2023 11:17:40 PM: INFO: xdist worker is: gw0
+04/26/2023 11:17:40 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:17:40 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:17:41 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:17:41 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:17:42 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/26/2023 11:17:42 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/26/2023 11:17:58 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\gw1\drivers\chromedriver\win32\112.0.5615]
+04/26/2023 11:17:59 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615]
+04/26/2023 11:18:00 PM: INFO: *********** Verifying the login case ***********
+04/26/2023 11:18:01 PM: INFO: ***********Test_TC01_Login***********
+04/26/2023 11:18:01 PM: INFO: *********** Verifying the homepage case ***********
+04/26/2023 11:18:04 PM: INFO: ***********  the homepage case is passed ***********
+04/26/2023 11:18:09 PM: INFO: ***********  the login case is passed ***********
+04/26/2023 11:19:22 PM: INFO: xdist worker is: gw1
+04/26/2023 11:19:22 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:19:22 PM: INFO: xdist worker is: gw0
+04/26/2023 11:19:22 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:19:23 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:19:23 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:19:24 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:19:24 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw1\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:19:25 PM: INFO: *********** Verifying the login case ***********
+04/26/2023 11:19:25 PM: INFO: ***********Test_TC01_Login***********
+04/26/2023 11:19:25 PM: INFO: *********** Verifying the homepage case ***********
+04/26/2023 11:19:27 PM: INFO: ***********  the homepage case is passed ***********
+04/26/2023 11:19:33 PM: INFO: ***********  the login case is passed ***********
+04/26/2023 11:20:21 PM: INFO: xdist worker is: gw0
+04/26/2023 11:20:21 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:20:21 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:20:22 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:20:24 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:20:24 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:20:37 PM: INFO: *** test-case is passed ***
+04/26/2023 11:20:37 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:20:37 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:20:37 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:23:13 PM: INFO: xdist worker is: gw0
+04/26/2023 11:23:13 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:23:14 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:23:15 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:23:16 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:23:16 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:23:30 PM: INFO: *** test-case is passed ***
+04/26/2023 11:23:33 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:23:33 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:23:33 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:24:22 PM: INFO: xdist worker is: gw0
+04/26/2023 11:24:22 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:24:23 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:24:23 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:24:25 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:24:25 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:24:39 PM: INFO: *** test-case is passed ***
+04/26/2023 11:24:42 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:24:43 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:24:43 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:34:28 PM: INFO: xdist worker is: gw0
+04/26/2023 11:34:28 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:34:29 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:34:29 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:34:31 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:34:31 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:34:44 PM: INFO: *** test-case is passed ***
+04/26/2023 11:34:48 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:34:50 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:34:50 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:34:54 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027F99B71090>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/e0b2c7141272188202bd473e3e3dce16/element
+04/26/2023 11:34:58 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027F99B90710>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/e0b2c7141272188202bd473e3e3dce16/element
+04/26/2023 11:35:03 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027F99B94410>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/e0b2c7141272188202bd473e3e3dce16/element
+04/26/2023 11:36:03 PM: INFO: xdist worker is: gw0
+04/26/2023 11:36:03 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:36:04 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:36:04 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:36:06 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:36:06 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:36:21 PM: INFO: *** test-case is passed ***
+04/26/2023 11:36:24 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:36:24 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:36:24 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:39:09 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:39:09 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:39:10 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:39:12 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:39:12 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:39:25 PM: INFO: *** test-case is passed ***
+04/26/2023 11:39:30 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:39:30 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:39:30 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:41:11 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:41:12 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:41:13 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:41:14 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:41:14 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:41:42 PM: INFO: *** test-case is passed ***
+04/26/2023 11:41:46 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:41:46 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:41:46 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:49:11 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:49:11 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:49:13 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:49:15 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:49:15 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:51:17 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:51:18 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:51:19 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:51:20 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:51:20 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:52:08 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:52:08 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:52:09 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:52:10 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:52:10 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:52:24 PM: INFO: *** test-case is passed ***
+04/26/2023 11:52:28 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:52:28 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:52:28 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/26/2023 11:53:54 PM: INFO: ====== WebDriver manager ======
+04/26/2023 11:53:54 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/26/2023 11:53:55 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/26/2023 11:53:56 PM: INFO: *********** Test_TC02_Login_ddt ***********
+04/26/2023 11:53:56 PM: INFO: *********** Verifying the login case ddt ***********
+04/26/2023 11:54:11 PM: INFO: *** test-case is passed ***
+04/26/2023 11:54:20 PM: INFO: ******** passed *******
+04/26/2023 11:54:20 PM: INFO: ************ test case login is passed ************
+04/26/2023 11:54:20 PM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/26/2023 11:54:20 PM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/27/2023 12:03:11 AM: INFO: ====== WebDriver manager ======
+04/27/2023 12:03:11 AM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/27/2023 12:03:13 AM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/27/2023 12:03:23 AM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615]
+04/27/2023 12:03:25 AM: INFO: *********** Test_TC02_Login_ddt ***********
+04/27/2023 12:03:25 AM: INFO: *********** Verifying the login case ddt ***********
+04/27/2023 12:03:39 AM: INFO: *** test-case is passed ***
+04/27/2023 12:03:46 AM: INFO: ******** passed *******
+04/27/2023 12:03:46 AM: INFO: ************ test case login is passed ************
+04/27/2023 12:03:46 AM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/27/2023 12:03:46 AM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/27/2023 12:08:22 AM: INFO: ====== WebDriver manager ======
+04/27/2023 12:08:23 AM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/27/2023 12:08:24 AM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/27/2023 12:08:25 AM: INFO: *********** Test_TC02_Login_ddt ***********
+04/27/2023 12:08:25 AM: INFO: *********** Verifying the login case ddt ***********
+04/27/2023 12:08:39 AM: INFO: *** test-case is passed ***
+04/27/2023 12:08:47 AM: INFO: ******** passed *******
+04/27/2023 12:08:47 AM: INFO: ************ test case login is passed ************
+04/27/2023 12:08:47 AM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/27/2023 12:08:47 AM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/27/2023 12:13:26 AM: INFO: ====== WebDriver manager ======
+04/27/2023 12:13:26 AM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/27/2023 12:13:27 AM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/27/2023 12:13:28 AM: INFO: *********** Test_TC02_Login_ddt ***********
+04/27/2023 12:13:28 AM: INFO: *********** Verifying the login case ddt ***********
+04/27/2023 12:13:41 AM: INFO: *** test-case is passed ***
+04/27/2023 12:13:48 AM: INFO: ******** passed *******
+04/27/2023 12:13:48 AM: INFO: ************ test case login is passed ************
+04/27/2023 12:13:49 AM: INFO: *********** Test_TC02_Login_ddt is finished ***********
+04/27/2023 12:13:49 AM: INFO: *********** End of Test_TC02_Login_ddt  ***********
+04/28/2023 12:11:29 PM: INFO: ====== WebDriver manager ======
+04/28/2023 12:11:30 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 12:11:30 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/28/2023 12:11:33 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615]
+04/28/2023 12:11:35 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 12:11:35 PM: INFO: ********* launch browser  ********* 
+04/28/2023 12:11:37 PM: INFO: ********* login test case ********* 
+04/28/2023 12:11:41 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 12:12:37 PM: INFO: ====== WebDriver manager ======
+04/28/2023 12:12:37 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 12:12:38 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 12:12:39 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 12:12:39 PM: INFO: ********* launch browser  ********* 
+04/28/2023 12:12:41 PM: INFO: ********* login test case ********* 
+04/28/2023 12:12:44 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 12:13:19 PM: INFO: ====== WebDriver manager ======
+04/28/2023 12:13:19 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 12:13:20 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 12:13:21 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 12:13:21 PM: INFO: ********* launch browser  ********* 
+04/28/2023 12:13:23 PM: INFO: ********* login test case ********* 
+04/28/2023 12:13:27 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 12:14:10 PM: INFO: ====== WebDriver manager ======
+04/28/2023 12:14:10 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 12:14:11 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 12:14:12 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 12:14:12 PM: INFO: ********* launch browser  ********* 
+04/28/2023 12:14:14 PM: INFO: ********* login test case ********* 
+04/28/2023 12:14:17 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 12:34:38 PM: INFO: ====== WebDriver manager ======
+04/28/2023 12:34:38 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 12:34:39 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 12:34:40 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 12:34:40 PM: INFO: ********* launch browser  ********* 
+04/28/2023 12:34:41 PM: INFO: ********* login test case ********* 
+04/28/2023 12:34:44 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 12:35:18 PM: INFO: ====== WebDriver manager ======
+04/28/2023 12:35:19 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 12:35:19 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 12:35:20 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 12:35:20 PM: INFO: ********* launch browser  ********* 
+04/28/2023 12:35:22 PM: INFO: ********* login test case ********* 
+04/28/2023 12:35:25 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 01:51:52 PM: INFO: ====== WebDriver manager ======
+04/28/2023 01:51:52 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 01:51:53 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 01:51:54 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 01:51:54 PM: INFO: ********* launch browser  ********* 
+04/28/2023 01:51:55 PM: INFO: ********* login test case ********* 
+04/28/2023 01:51:58 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:23:33 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:23:34 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:23:34 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:23:35 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:23:35 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:23:37 PM: INFO: ********* login test case ********* 
+04/28/2023 02:23:40 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:23:42 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:24:58 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:24:58 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:24:59 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:25:00 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:25:00 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:25:01 PM: INFO: ********* login test case ********* 
+04/28/2023 02:25:05 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:25:07 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:28:02 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:28:03 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:28:03 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:28:05 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:28:05 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:28:06 PM: INFO: ********* login test case ********* 
+04/28/2023 02:28:09 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:28:12 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:28:23 PM: INFO: ********** adding a customer***********
+04/28/2023 02:28:40 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:28:40 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:28:41 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:28:42 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:28:42 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:28:43 PM: INFO: ********* login test case ********* 
+04/28/2023 02:28:46 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:28:48 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:28:59 PM: INFO: ********** adding a customer***********
+04/28/2023 02:29:44 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:29:44 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:29:45 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:29:46 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:29:46 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:29:47 PM: INFO: ********* login test case ********* 
+04/28/2023 02:29:50 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:29:52 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:30:03 PM: INFO: ********** adding a customer***********
+04/28/2023 02:30:35 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:30:36 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:30:36 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:30:38 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:30:38 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:30:38 PM: INFO: ********* login test case ********* 
+04/28/2023 02:30:41 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:30:43 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:30:59 PM: INFO: ********** adding a customer***********
+04/28/2023 02:31:22 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:31:23 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:31:23 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:31:24 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:31:24 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:31:26 PM: INFO: ********* login test case ********* 
+04/28/2023 02:31:29 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:31:32 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:31:47 PM: INFO: ********** adding a customer***********
+04/28/2023 02:32:57 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:32:57 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:32:58 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:32:59 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:32:59 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:33:00 PM: INFO: ********* login test case ********* 
+04/28/2023 02:33:04 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:33:52 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:33:52 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:33:53 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:33:54 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:33:54 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:33:55 PM: INFO: ********* login test case ********* 
+04/28/2023 02:33:58 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:34:15 PM: INFO: ====== WebDriver manager ======
+04/28/2023 02:34:16 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 02:34:16 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 02:34:17 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 02:34:17 PM: INFO: ********* launch browser  ********* 
+04/28/2023 02:34:18 PM: INFO: ********* login test case ********* 
+04/28/2023 02:34:22 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 02:34:27 PM: INFO: ******* adding the info of customer********
+04/28/2023 02:34:44 PM: INFO: ********** adding a customer***********
+04/28/2023 03:53:17 PM: INFO: ====== WebDriver manager ======
+04/28/2023 03:53:17 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 03:53:18 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 03:53:19 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 03:53:19 PM: INFO: ********* launch browser  ********* 
+04/28/2023 03:53:20 PM: INFO: ********* login test case ********* 
+04/28/2023 03:53:24 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 03:53:30 PM: INFO: ******* adding the info of customer********
+04/28/2023 03:53:36 PM: INFO: ====== WebDriver manager ======
+04/28/2023 03:53:36 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 03:53:37 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 03:53:38 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 03:53:38 PM: INFO: ********* launch browser  ********* 
+04/28/2023 03:53:39 PM: INFO: ********* login test case ********* 
+04/28/2023 03:53:43 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 03:53:49 PM: INFO: ******* adding the info of customer********
+04/28/2023 03:54:20 PM: INFO: ====== WebDriver manager ======
+04/28/2023 03:54:21 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 03:54:21 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 03:54:23 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 03:54:23 PM: INFO: ********* launch browser  ********* 
+04/28/2023 03:54:23 PM: INFO: ********* login test case ********* 
+04/28/2023 03:54:26 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 03:54:31 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:01:44 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:01:44 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:01:45 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:01:46 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:01:46 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:01:47 PM: INFO: ********* login test case ********* 
+04/28/2023 04:01:50 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:01:56 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:02:12 PM: INFO: ********** adding a customer***********
+04/28/2023 04:24:31 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:24:31 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:24:32 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:24:33 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:24:33 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:24:34 PM: INFO: ********* login test case ********* 
+04/28/2023 04:24:38 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:24:43 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:25:00 PM: INFO: ********** adding a customer***********
+04/28/2023 04:31:37 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:31:38 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:31:38 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:31:39 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:31:39 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:31:41 PM: INFO: ********* login test case ********* 
+04/28/2023 04:31:44 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:31:50 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:32:06 PM: INFO: ********** adding a customer***********
+04/28/2023 04:32:06 PM: INFO: ****** add customer failed ****
+04/28/2023 04:33:03 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:33:04 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:33:04 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:33:05 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:33:05 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:33:06 PM: INFO: ********* login test case ********* 
+04/28/2023 04:33:10 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:33:15 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:33:32 PM: INFO: ********** adding a customer***********
+04/28/2023 04:33:32 PM: INFO: ****** add customer failed ****
+04/28/2023 04:35:25 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:35:26 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:35:27 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:35:28 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:35:28 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:35:29 PM: INFO: ********* login test case ********* 
+04/28/2023 04:35:32 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:35:37 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:35:54 PM: INFO: ********** adding a customer***********
+04/28/2023 04:35:54 PM: INFO: ****** add customer failed ****
+04/28/2023 04:36:49 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:36:49 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:36:50 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:36:51 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:36:51 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:36:52 PM: INFO: ********* login test case ********* 
+04/28/2023 04:36:55 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:37:01 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:37:17 PM: INFO: ********** adding a customer***********
+04/28/2023 04:37:17 PM: INFO: ****** add customer failed ****
+04/28/2023 04:38:16 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:38:16 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:38:17 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:38:18 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:38:18 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:38:19 PM: INFO: ********* login test case ********* 
+04/28/2023 04:38:22 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:38:27 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:38:44 PM: INFO: ********** adding a customer***********
+04/28/2023 04:38:44 PM: INFO: ****** add customer failed ****
+04/28/2023 04:40:57 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:40:58 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:40:58 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:41:00 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:41:00 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:41:01 PM: INFO: ********* login test case ********* 
+04/28/2023 04:41:04 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:41:10 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:41:26 PM: INFO: ********** adding a customer***********
+04/28/2023 04:44:30 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:44:30 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:44:31 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:44:32 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:44:32 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:44:33 PM: INFO: ********* login test case ********* 
+04/28/2023 04:44:36 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:44:42 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:44:59 PM: INFO: ********** adding a customer***********
+04/28/2023 04:46:03 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:46:03 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:46:04 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 04:46:05 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 04:46:05 PM: INFO: ********* launch browser  ********* 
+04/28/2023 04:46:06 PM: INFO: ********* login test case ********* 
+04/28/2023 04:46:10 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 04:46:15 PM: INFO: ******* adding the info of customer********
+04/28/2023 04:46:31 PM: INFO: ********** adding a customer***********
+04/28/2023 04:46:32 PM: INFO: ****** customer added ****
+04/28/2023 04:59:08 PM: INFO: xdist worker is: gw0
+04/28/2023 04:59:08 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:59:08 PM: INFO: ====== WebDriver manager ======
+04/28/2023 04:59:09 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 04:59:10 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/28/2023 04:59:10 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/28/2023 04:59:15 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\gw0\drivers\chromedriver\win32\112.0.5615]
+04/28/2023 04:59:15 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\gw1\drivers\chromedriver\win32\112.0.5615]
+04/28/2023 04:59:17 PM: INFO: *********** Verifying the login case ***********
+04/28/2023 04:59:17 PM: INFO: ***********Test_TC01_Login***********
+04/28/2023 04:59:17 PM: INFO: *********** Verifying the homepage case ***********
+04/28/2023 04:59:19 PM: INFO: ***********  the homepage case is passed ***********
+04/28/2023 04:59:22 PM: INFO: ***********  the login case is passed ***********
+04/28/2023 05:00:46 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:00:47 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:00:47 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:00:48 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:00:48 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:00:50 PM: INFO: ********* login test case ********* 
+04/28/2023 05:00:53 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:00:58 PM: INFO: ******* adding the info of customer********
+04/28/2023 05:01:15 PM: INFO: ********** adding a customer***********
+04/28/2023 05:01:15 PM: INFO: ****** customer added ****
+04/28/2023 05:45:54 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:45:54 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:45:55 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:45:56 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:45:56 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:45:57 PM: INFO: ********* login test case ********* 
+04/28/2023 05:46:00 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:46:05 PM: INFO: ******* adding the info of customer********
+04/28/2023 05:48:00 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:48:00 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:48:01 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:48:02 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:48:02 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:48:03 PM: INFO: ********* login test case ********* 
+04/28/2023 05:48:06 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:48:11 PM: INFO: ******* adding the info of customer********
+04/28/2023 05:49:15 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:49:15 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:49:16 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:49:17 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:49:17 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:49:17 PM: INFO: ********* login test case ********* 
+04/28/2023 05:49:20 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:49:25 PM: INFO: ******* adding the info of customer********
+04/28/2023 05:51:44 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:51:45 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:51:45 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:51:47 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:51:47 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:51:48 PM: INFO: ********* login test case ********* 
+04/28/2023 05:51:51 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:51:56 PM: INFO: ******* adding the info of customer********
+04/28/2023 05:53:17 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:53:17 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:53:18 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:53:19 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:53:19 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:53:21 PM: INFO: ********* login test case ********* 
+04/28/2023 05:53:24 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:53:29 PM: INFO: ******* adding the info of customer********
+04/28/2023 05:54:18 PM: INFO: ====== WebDriver manager ======
+04/28/2023 05:54:18 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 05:54:19 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 05:54:20 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 05:54:20 PM: INFO: ********* launch browser  ********* 
+04/28/2023 05:54:21 PM: INFO: ********* login test case ********* 
+04/28/2023 05:54:24 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 05:54:30 PM: INFO: ******* adding the info of customer********
+04/28/2023 06:35:36 PM: INFO: ====== WebDriver manager ======
+04/28/2023 06:35:37 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+04/28/2023 06:35:37 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/28/2023 06:35:38 PM: INFO: ********* Test_0003_AddCustomer ********* 
+04/28/2023 06:35:38 PM: INFO: ********* launch browser  ********* 
+04/28/2023 06:35:40 PM: INFO: ********* login test case ********* 
+04/28/2023 06:35:43 PM: INFO: ********* verifing addCustomer test case ********* 
+04/28/2023 06:35:49 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:11:27 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:11:27 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:11:28 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+05/02/2023 02:11:31 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615]
+05/02/2023 02:11:33 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:11:33 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:11:34 PM: INFO: ********* login test case ********* 
+05/02/2023 02:11:37 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:11:42 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:12:03 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:12:03 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:12:04 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:12:05 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:12:05 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:12:06 PM: INFO: ********* login test case ********* 
+05/02/2023 02:12:10 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:12:16 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:12:59 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:13:00 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:13:00 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:13:02 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:13:02 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:13:03 PM: INFO: ********* login test case ********* 
+05/02/2023 02:13:06 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:13:11 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:14:09 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:14:09 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:14:10 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:14:11 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:14:11 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:14:12 PM: INFO: ********* login test case ********* 
+05/02/2023 02:14:15 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:14:21 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:15:27 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:15:27 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:15:28 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:15:29 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:15:29 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:15:30 PM: INFO: ********* login test case ********* 
+05/02/2023 02:15:34 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:15:40 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:18:16 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:18:17 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:18:17 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:18:19 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:18:19 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:18:20 PM: INFO: ********* login test case ********* 
+05/02/2023 02:18:24 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:18:29 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:19:04 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:19:04 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:19:05 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:19:06 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:19:06 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:19:07 PM: INFO: ********* login test case ********* 
+05/02/2023 02:19:11 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:19:17 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:19:33 PM: INFO: ********** adding a customer***********
+05/02/2023 02:19:33 PM: INFO: ****** verfication test case ******
+05/02/2023 02:19:33 PM: INFO: ****** add customer failed ****
+05/02/2023 02:22:05 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:22:06 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:22:06 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:22:07 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:22:07 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:22:09 PM: INFO: ********* login test case ********* 
+05/02/2023 02:22:12 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:22:18 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:24:32 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:24:32 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:24:33 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:24:34 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:24:34 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:24:36 PM: INFO: ********* login test case ********* 
+05/02/2023 02:24:38 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:24:44 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:33:21 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:33:22 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:33:22 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:33:23 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:33:23 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:33:25 PM: INFO: ********* login test case ********* 
+05/02/2023 02:33:28 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:33:34 PM: INFO: ******* adding the info of customer********
+05/02/2023 02:34:21 PM: INFO: ====== WebDriver manager ======
+05/02/2023 02:34:22 PM: INFO: Get LATEST chromedriver version for google-chrome 112.0.5615
+05/02/2023 02:34:22 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+05/02/2023 02:34:23 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/02/2023 02:34:23 PM: INFO: ********* launch browser  ********* 
+05/02/2023 02:34:24 PM: INFO: ********* login test case ********* 
+05/02/2023 02:34:27 PM: INFO: ********* verifing addCustomer test case ********* 
+05/02/2023 02:34:33 PM: INFO: ******* adding the info of customer********
+05/07/2023 07:19:49 PM: INFO: ====== WebDriver manager ======
+05/07/2023 07:19:49 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 07:19:50 PM: INFO: There is no [win32] chromedriver for browser 113.0.5672 in cache
+05/07/2023 07:19:50 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_win32.zip
+05/07/2023 07:20:14 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672]
+05/07/2023 07:20:15 PM: INFO: ********* Test_0003_AddCustomer ********* 
+05/07/2023 07:20:15 PM: INFO: ********* launch browser  ********* 
+05/07/2023 07:20:17 PM: INFO: ********* login test case ********* 
+05/07/2023 07:20:23 PM: INFO: ********* verifing addCustomer test case ********* 
+05/07/2023 07:20:31 PM: INFO: ******* adding the info of customer********
+05/07/2023 07:20:57 PM: INFO: ********** adding a customer***********
+05/07/2023 07:20:57 PM: INFO: ****** verfication test case ******
+05/07/2023 07:20:57 PM: INFO: ****** add customer failed ****
+05/07/2023 08:02:34 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:02:34 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:02:35 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:02:36 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:02:36 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:02:39 PM: INFO: ********* login test case ********* 
+05/07/2023 08:02:44 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:03:21 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:03:22 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:03:23 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:03:24 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:03:24 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:03:25 PM: INFO: ********* login test case ********* 
+05/07/2023 08:03:31 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:04:53 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:04:53 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:04:54 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:04:55 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:04:55 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:04:57 PM: INFO: ********* login test case ********* 
+05/07/2023 08:05:02 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:05:07 PM: INFO: ************ search customer by email test case
+05/07/2023 08:11:05 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:11:06 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:11:15 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:11:16 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:11:16 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:11:25 PM: INFO: ********* login test case ********* 
+05/07/2023 08:11:41 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:11:53 PM: INFO: ************ search customer by email test case
+05/07/2023 08:13:24 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:13:24 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:13:26 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:13:27 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:13:27 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:13:33 PM: INFO: ********* login test case ********* 
+05/07/2023 08:13:46 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:13:51 PM: INFO: ************ search customer by email test case
+05/07/2023 08:15:18 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:15:19 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:15:19 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:15:20 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:15:20 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:15:26 PM: INFO: ********* login test case ********* 
+05/07/2023 08:15:44 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:15:55 PM: INFO: ************ search customer by email test case
+05/07/2023 08:16:58 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:16:59 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:17:00 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:17:01 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:17:01 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:17:08 PM: INFO: ********* login test case ********* 
+05/07/2023 08:17:18 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:17:24 PM: INFO: ************ search customer by email test case
+05/07/2023 08:18:07 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:18:08 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:18:08 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:18:09 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:18:09 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:18:12 PM: INFO: ********* login test case ********* 
+05/07/2023 08:18:23 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:18:30 PM: INFO: ************ search customer by email test case
+05/07/2023 08:20:09 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:20:10 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:20:11 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:20:12 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:20:12 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:20:15 PM: INFO: ********* login test case ********* 
+05/07/2023 08:20:26 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:20:35 PM: INFO: ************ search customer by email test case
+05/07/2023 08:22:23 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:22:23 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:22:24 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:22:25 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:22:25 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:22:28 PM: INFO: ********* login test case ********* 
+05/07/2023 08:22:35 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:22:40 PM: INFO: ************ search customer by email test case
+05/07/2023 08:27:12 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:27:13 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:27:14 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:27:15 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:27:15 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:27:17 PM: INFO: ********* login test case ********* 
+05/07/2023 08:27:24 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:27:29 PM: INFO: ************ search customer by email test case
+05/07/2023 08:28:54 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:28:54 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:28:55 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:28:56 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:28:56 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:28:58 PM: INFO: ********* login test case ********* 
+05/07/2023 08:29:08 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:29:17 PM: INFO: ************ search customer by email test case
+05/07/2023 08:30:00 PM: INFO: ====== WebDriver manager ======
+05/07/2023 08:30:00 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 08:30:01 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 08:30:02 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 08:30:02 PM: INFO: ********* launch browser  ********* 
+05/07/2023 08:30:04 PM: INFO: ********* login test case ********* 
+05/07/2023 08:30:12 PM: INFO: ********* launch page customer ********* 
+05/07/2023 08:30:16 PM: INFO: ************ search customer by email test case
+05/07/2023 09:47:46 PM: INFO: ====== WebDriver manager ======
+05/07/2023 09:47:47 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 09:47:48 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 09:47:49 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/07/2023 09:47:49 PM: INFO: ********* launch browser  ********* 
+05/07/2023 09:47:52 PM: INFO: ********* login test case ********* 
+05/07/2023 09:47:58 PM: INFO: ********* launch page customer ********* 
+05/07/2023 09:48:04 PM: INFO: ************ search customer by email test case
+05/07/2023 09:48:30 PM: INFO: ====== WebDriver manager ======
+05/07/2023 09:48:30 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/07/2023 09:48:31 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/07/2023 09:48:32 PM: INFO: *********** Verifying the login case ***********
+05/07/2023 09:48:54 PM: INFO: ***********  the login case is passed ***********
+05/08/2023 06:16:30 PM: INFO: ====== WebDriver manager ======
+05/08/2023 06:16:30 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/08/2023 06:16:31 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_win32.zip
+05/08/2023 06:16:34 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672]
+05/08/2023 06:16:35 PM: INFO: ********* T_004_search_ByEmail ********* 
+05/08/2023 06:16:35 PM: INFO: ********* launch browser  ********* 
+05/08/2023 06:16:37 PM: INFO: ********* login test case ********* 
+05/08/2023 06:16:40 PM: INFO: ********* launch page customer ********* 
+05/08/2023 06:16:45 PM: INFO: ************ search customer by email test case
+05/10/2023 02:35:19 PM: INFO: ====== WebDriver manager ======
+05/10/2023 02:35:19 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/10/2023 02:35:20 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_win32.zip
+05/10/2023 02:35:24 PM: INFO: Driver has been saved in cache [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672]
+05/10/2023 02:35:26 PM: INFO: *********** Verifying the login case ***********
+05/10/2023 02:35:33 PM: INFO: ***********  the login case is passed ***********
+05/10/2023 02:42:08 PM: INFO: ====== WebDriver manager ======
+05/10/2023 02:42:09 PM: INFO: Get LATEST chromedriver version for google-chrome 113.0.5672
+05/10/2023 02:42:09 PM: INFO: Driver [C:\Users\HP 15 I5\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+05/10/2023 02:42:11 PM: INFO: *********** Verifying the login case ***********
+05/10/2023 02:42:16 PM: INFO: ***********  the login case is passed ***********
